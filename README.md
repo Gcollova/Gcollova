@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/express.js%20-0D1117.svg?&style=for-the-badge&logo=express&logoColor=c76494"/>   
   <img src="https://img.shields.io/badge/NEXT%20-0D1117.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>  
  <img src="https://img.shields.io/badge/node.js%20-0D1117.svg?&style=for-the-badge&logo=node.js&logoColor=green"/>
-  <img src="https://img.shields.io/badge/react%20-0D1117.svg?&style=for-the-badge&logo=react&logoColor=blue"/><hr>
+  <img src="https://img.shields.io/badge/react%20-0D1117.svg?&style=for-the-badge&logo=react&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Bootstrap%20-0D1117.svg?&style=for-the-badge&logo=bootstrap&logoColor=purple"/>
+ <img src="https://img.shields.io/badge/Redux%20-0D1117.svg?&style=for-the-badge&logo=redux&logoColor=purple"/><hr>
   
   
   <p><img src="https://img.shields.io/badge/Markup & Style%20-0D1117.svg?&style=for-the-badge"/></p>
@@ -20,6 +22,10 @@
   <img src="https://img.shields.io/badge/HTML%20-0D1117.svg?&style=for-the-badge&logo=HTML5&logoColor=orange"/> 
   <img src="https://img.shields.io/badge/SASS%20-0D1117.svg?&style=for-the-badge&logo=SASS&logoColor=c76494"/> 
    <hr> 
+  <p><img src="https://img.shields.io/badge/Tool%20-0D1117.svg?&style=for-the-badge"/></p>
+  <img src="https://img.shields.io/badge/MongoDB%20-0D1117.svg?&style=for-the-badge&logo=mongoDB&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code%20-0D1117.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+ 
    
    
 
