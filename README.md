@@ -9,12 +9,13 @@
   <img src="https://img.shields.io/badge/javascript%20-0D1117.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> <hr>
   
    <p><img src="https://img.shields.io/badge/Frameworks & Libraries%20-0D1117.svg?&style=for-the-badge"/></p>
+ <img src="https://img.shields.io/badge/Bootstrap%20-0D1117.svg?&style=for-the-badge&logo=bootstrap&logoColor=purple"/>
   <img src="https://img.shields.io/badge/express.js%20-0D1117.svg?&style=for-the-badge&logo=express&logoColor=c76494"/>   
   <img src="https://img.shields.io/badge/NEXT%20-0D1117.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>  
  <img src="https://img.shields.io/badge/node.js%20-0D1117.svg?&style=for-the-badge&logo=node.js&logoColor=green"/>
   <img src="https://img.shields.io/badge/react%20-0D1117.svg?&style=for-the-badge&logo=react&logoColor=blue"/>
- <img src="https://img.shields.io/badge/Bootstrap%20-0D1117.svg?&style=for-the-badge&logo=bootstrap&logoColor=purple"/>
- <img src="https://img.shields.io/badge/Redux%20-0D1117.svg?&style=for-the-badge&logo=redux&logoColor=purple"/><hr>
+ 
+ <img src="https://img.shields.io/badge/Redux%20-0D1117.svg?&style=for-the-badge&logo=redux&logoColor=purple"/>
   
   
   <p><img src="https://img.shields.io/badge/Markup & Style%20-0D1117.svg?&style=for-the-badge"/></p>
@@ -24,7 +25,7 @@
    <hr> 
   <p><img src="https://img.shields.io/badge/Tool%20-0D1117.svg?&style=for-the-badge"/></p>
   <img src="https://img.shields.io/badge/MongoDB%20-0D1117.svg?&style=for-the-badge&logo=mongoDB&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code%20-0D1117.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code%20-0D1117.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue"/><hr>
  
    
    
