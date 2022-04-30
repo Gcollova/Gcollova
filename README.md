@@ -7,8 +7,8 @@
    <h1>My Skills.</h1> 
   <p><img src="https://img.shields.io/badge/Programming Languages%20-0D1117.svg?&style=for-the-badge"/></p> 
   <img src="https://img.shields.io/badge/javascript%20-0D1117.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> <hr>
-
-<img src="https://img.shields.io/badge/typescript%20-0D1117.svg?&style=for-the-badge&logo=typescript&logoColor=blue"/> <hr>
+  <img src="https://img.shields.io/badge/typescript%20-0D1117.svg?&style=for-the-badge&logo=typescript&logoColor=blue"/> <hr>
+  <img src="https://img.shields.io/badge/dart%20-0D1117.svg?&style=for-the-badge&logo=dart&logoColor=lightblue"/> <hr>
  
 
   
